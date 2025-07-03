@@ -1,0 +1,3 @@
+venv
+key.json
+.streamlit/secrets.toml
