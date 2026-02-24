@@ -1,4 +1,4 @@
-
+﻿altair==5.5.0
 annotated-types==0.7.0
 anywidget==0.9.18
 asttokens==3.0.0
@@ -125,6 +125,7 @@ whitebox==2.3.6
 whiteboxgui==2.3.0
 widgetsnbextension==4.0.14
 xyzservices==2025.4.0
+
 
 
 
