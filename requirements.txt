@@ -101,7 +101,7 @@ requests==2.32.4
 rpds-py==0.26.0
 rsa==4.9.1
 scooby==0.10.1
-setuptools>=65.0.0
+setuptools
 shapely==2.1.1
 six==1.17.0
 smmap==5.0.2
@@ -125,4 +125,5 @@ whitebox==2.3.6
 whiteboxgui==2.3.0
 widgetsnbextension==4.0.14
 xyzservices==2025.4.0
+
 
